@@ -1,13 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-N;CHARSET=UTF-8:Gözen;Volkan;;Dr.;
-FN;CHARSET=UTF-8:Dr. Volkan Gözen
+N;CHARSET=UTF-8:Gözen;Volkan;;;Ph.D.
+FN;CHARSET=UTF-8:Volkan Gözen, Ph.D.
 ORG;CHARSET=UTF-8:Batı Akdeniz Agricultural Research Institute (BATEM);Dep
  artment of Vegetable and Ornamental Plants
 TITLE;CHARSET=UTF-8:Agricultural Engineer · Vegetable Breeder · Data Anal
  yst
 TEL;TYPE=CELL,VOICE:+905327389673
 EMAIL;TYPE=INTERNET,WORK:volkan.gozen@tarimorman.gov.tr
+EMAIL;TYPE=INTERNET,HOME:vgozen44@gmail.com
 item1.URL:https://vlkgzn.github.io/dijital-kartvizit/en.html
 item1.X-ABLabel:Digital Business Card
 item2.URL:https://www.linkedin.com/in/volkan-gozen
