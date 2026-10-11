@@ -1,0 +1,11 @@
+{
+  "redirects": [
+    { "source": "/iletisim.html", "destination": "https://kart.volkangozen.com/iletisim.html", "permanent": true },
+    { "source": "/contact.html", "destination": "https://kart.volkangozen.com/contact.html", "permanent": true },
+    { "source": "/gizlilik.html", "destination": "https://kart.volkangozen.com/gizlilik.html", "permanent": true },
+    { "source": "/privacy.html", "destination": "https://kart.volkangozen.com/privacy.html", "permanent": true }
+  ],
+  "headers": [
+    { "source": "/sw.js", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
+  ]
+}
